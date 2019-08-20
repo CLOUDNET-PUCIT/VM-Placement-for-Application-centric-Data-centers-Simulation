@@ -47,4 +47,14 @@ This project run the three iteration of each algorithm, and output the following
     6. completly free PM
     7. bandwidth utilized
 if you need to test all experiments for all deployment models than you have to run this project four times, changing the configrationGenrator( ) parameter as define above and PM.txt file fifth value as explained above.    
- 
+
+Publication
+
+You can find related publication "Application Centric Virtual Machine Placements to Minimize Bandwidth Utilization in Datacenters" from the following links:
+
+"http://autosoftjournal.net/paperShow.php?paper=100000047"
+
+OR
+
+"https://www.researchgate.net/profile/Waheed_Iqbal/publication/326704195_Application_Centric_Virtual_Machine_Placements_to_Minimize_Bandwidth_Utilization_in_Datacenters/links/5baf662ca6fdccd3cb7c1230/Application-Centric-Virtual-Machine-Placements-to-Minimize-Bandwidth-Utilization-in-Datacenters.pdf"
+
