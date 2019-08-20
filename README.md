@@ -50,10 +50,10 @@ if you need to test all experiments for all deployment models than you have to r
 
 # Publication
 
-    You can find related publication "Application Centric Virtual Machine Placements to Minimize Bandwidth Utilization in Datacenters" from the following links:
+You can find related publication "Application Centric Virtual Machine Placements to Minimize Bandwidth Utilization in Datacenters" from the following links:
 
-    "http://autosoftjournal.net/paperShow.php?paper=100000047"
+ "http://autosoftjournal.net/paperShow.php?paper=100000047"
 
-    OR
+  OR
     "https://www.researchgate.net/profile/Waheed_Iqbal/publication/326704195_Application_Centric_Virtual_Machine_Placements_to_Minimize_Bandwidth_Utilization_in_Datacenters/links/5baf662ca6fdccd3cb7c1230/Application-Centric-Virtual-Machine-Placements-to-Minimize-Bandwidth-Utilization-in-Datacenters.pdf"
 
